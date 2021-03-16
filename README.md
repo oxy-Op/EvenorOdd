@@ -27,8 +27,8 @@ $ `Python EorO.py
 
 <p> Import This Repo ` </p>
 
-<p><i>**Simply Run**</i></p>
+<p><i>Simply Run</i></p>
 
-**If you're Using In [ReplIt](https://replit.com/) then simply press run button **
+**If you're Using In [ReplIt](https://replit.com/) then simply press run button**
 
 
